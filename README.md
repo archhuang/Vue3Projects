@@ -1,3 +1,5 @@
+## Tailwind
+https://tailwindcss.com/docs/installation
 
 ## axios
 https://github.com/axios/axios
@@ -42,15 +44,10 @@ https://jsfiddle.net/craig_h_411/992o7cq5/
 
 ## Vue-good-table
 https://xaksis.github.io/vue-good-table/
-## Vuex
-https://vuex.vuejs.org/
-## Vue Router
-https://router.vuejs.org/
-## Vuetify
-vue的UI/UX框架，除Bootstrap外的选择。
-https://vuetifyjs.com/
+
 ## element-ui
 http://element.eleme.io/
+
 ## vue-material
 https://vuematerial.io/
 
